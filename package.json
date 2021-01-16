@@ -3,7 +3,7 @@
   "homepage": "https://niket-iiitu.github.io/Memories",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:5000",
+  "proxy": "https://memories-project-na.herokuapp.com/posts",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
